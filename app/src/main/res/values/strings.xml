@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SpinnerV4</string>
+    <string-array name="planets_array">
+        <item>Ninguno</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+        <item>Domingo</item>
+
+
+    </string-array>
+</resources>
